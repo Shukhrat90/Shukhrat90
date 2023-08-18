@@ -3,10 +3,9 @@
 - 🌱 Я сейчас повышаю уровень знаний и параллельно ищу работу на должность junior Frontend-разработчика...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
----
+
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Shukhrat-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Shukhrat090) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:hushkadamov90@gmail.com)
----
 ### 🤝 Социальные сети:
   <div id="badges">
     <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
