@@ -3,8 +3,10 @@
 - 🌱 Я сейчас повышаю уровень знаний и параллельно ищу работу на должность junior Frontend-разработчика...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+---
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Shukhrat-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Shukhrat090) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:hushkadamov90@gmail.com)
+---
 ---
 ### 🤝 Социальные сети:
   <div id="badges">
@@ -25,6 +27,7 @@
     </a> -->
   </div>
 ---
+---
 ### 💻 Технологии:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -37,6 +40,7 @@
   
 </div>
 ---
+---
 ### 🛠 Инструменты:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
@@ -45,6 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
+---
 ---
 <!-- ### 💻 Пройденные курсы:
 | Курсы                                                           | Дата              |
